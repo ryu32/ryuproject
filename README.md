@@ -21,7 +21,7 @@ Selamat Menikmati :D
 
 |Deploy Via Bot|  Deploy Via Web|
 |--|--|
-| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=dmNreW91L0dlZXpQcm9qZWN0cyBtYXN0ZXI) | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ryu32/ryuproject) |
+| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=dmNreW91L0dlZXpQcm9qZWN0cyBtYXN0ZXI) | (https://geezram.now.sh) |
 
 
 ### Create String Session
